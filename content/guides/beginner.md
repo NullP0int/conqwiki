@@ -18,7 +18,7 @@ This is a raw attribute skill guideline. It should provide you a good enough sta
 
 | Weapon Class | Main Attribute      | Secondary Attribute | Comment                                                                                  |
 |--------------|---------------------|-------------------- |------------------------------------------------------------------------------------------|
-| Spear        | Agility             | (Strength)          | I had the best Spear experience with full Agi                                           |
+| Spear        | Agility             | (Strength)          | I had the best Spear experience with full Agi                                            |
 | Short Bow    | Agility             | -                   |                                                                                          |
 | Long Bow     | Agility             | -                   |                                                                                          |
 | Dual Blade   | Strength            | -                   | You are a glass cannon. Full DMG is a must!                                              |
