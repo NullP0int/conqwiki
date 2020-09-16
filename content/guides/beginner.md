@@ -16,14 +16,14 @@ In this article we will focus on the basic gameplay mechanics, which units you s
 
 This is a raw attribute skill guideline. It should provide you a good enough starting point to skill your character. There might be some exotic ways to skill your main weapon class, but this should be a good basis.
 
-| Weapon Class | Main Attribute      | Secondary Attribute          | Comment                                                                                  |
-|--------------|---------------------|------------------------------|------------------------------------------------------------------------------------------|
-| Spear        | Agility             | (can be mixed with Strength) | I had the best Spear experience with full Agi.                                           |
-| Short Bow    | Agility             | -                            |                                                                                          |
-| Long Bow     | Agility             | -                            |                                                                                          |
-| Dual Blade   | Strength            | -                            | You are a glass cannon. Full DMG is a must!                                              |
-| Nodachi      | Strength            | -                            |                                                                                          |
-| Short Sword  | Strength            | Defense                      | The weight of Strength/Defense can be adapted to your playstyle / sweet spot             |
-| Poleaxe      | Strength            | Defense                      | The weight of Strength/Defense can be adapted to your playstyle / sweet spot             |
-| Maul         | Defense             | Strength                     | You already make a lot of DMG as Maul, so you should favour putting more points into DEF |
-| Musket       | Strength or Agility | -                            | STR Musket for max bomb damage (PVE), AGI for PVP (piercing damage)                      |
+| Weapon Class | Main Attribute      | Secondary Attribute | Comment                                                                                  |
+|--------------|---------------------|-------------------- |------------------------------------------------------------------------------------------|
+| Spear        | Agility             | (Strength)          | I had the best Spear experience with full Agi                                           |
+| Short Bow    | Agility             | -                   |                                                                                          |
+| Long Bow     | Agility             | -                   |                                                                                          |
+| Dual Blade   | Strength            | -                   | You are a glass cannon. Full DMG is a must!                                              |
+| Nodachi      | Strength            | -                   |                                                                                          |
+| Short Sword  | Strength            | Defense             | The weight of Strength/Defense can be adapted to your playstyle / sweet spot             |
+| Poleaxe      | Strength            | Defense             | The weight of Strength/Defense can be adapted to your playstyle / sweet spot             |
+| Maul         | Defense             | Strength            | You already make a lot of DMG as Maul, so you should favour putting more points into DEF |
+| Musket       | Strength or Agility | -                   | STR Musket for max bomb damage (PVE), AGI for PVP (piercing damage)                      |
