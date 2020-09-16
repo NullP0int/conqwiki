@@ -26,4 +26,4 @@ This is a basic attribute skill guideline. It should provide you a good enough s
 | Short Sword  | Strength           | Defense             | 2/3 Strength and 1/3 Defense is my personal sweet spot                                    |
 | Poleaxe      | Strength           | Defense             | -                                                                                         |
 | Maul         | Defense            | Strength            | You already make tons of blunt damage, so you should focus putting more points in Defense |
-| Musket       | Strength / Agility | -                   | STR Musket for max bomb damage (PVE), AGI for PVP (piercing damage)                       |
+| Musket       | Strength / Agility | -                   | Strength Musket for max bomb damage, Agility for PVP (piercing damage)                    |
