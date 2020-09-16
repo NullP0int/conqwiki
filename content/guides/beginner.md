@@ -43,3 +43,25 @@ There are a bunch of weekly quests you can complete. The more you complete, the 
 ### Fief Quests
 
 In all fiefs on the open world map you can fulfill certain fief quests. They have different levels (up to 5 stars), and with every star more you will get more honour for your units and reputation for your house. If you are in a house (guild) and complete these quests in a city your house holds, you will even receive a 50% bonus on these rewards. Theres a maximum of 20 fief quests per week, which you can fulfill.
+
+## Unlocking Units
+
+At the beginning it is very important to unlock the right units. When spending your honour in the unit tree, in the beginning you should purely focus on unlocking the units which will push you further to the right. Do not skill orphan branches, go straight to the T5 heroic units on the right.
+
+It surely depends on your play style, but here are some suggestions on units you should definitely unlock first:
+
+- Pike Militia
+
+This unit is just great, even in the later stages of the game its a viable option which will get you a lot of kills, when placed correctly. Be sure to always put them in brace and take the middle veterancy tree.
+
+- Spear Sergeants
+
+Another great one, which I still play in almost every expedition. Also great for Territorial War. I'd suggest to skill the bottom tree. They also take you to the Monastic Knights T5 cavalry, which is a must have!
+
+- Imperial Pikes
+
+These guys have a massive charge, which is essential for pushing points - especially in TW! Also they are needed to unlock Iron Reapers, which you also want to have in the later stages of the game. You can skill them on the top or bottom tree, choose which one attracts you more.
+
+- Monastic Knights
+
+Tanks on horses. This is the first T5 unit you should aim for. But take care, they need at least level 20 to survive most of the time! The defensive veterancy tree is the way to go.
