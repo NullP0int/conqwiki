@@ -14,4 +14,4 @@ dateCreated: 2020-09-14T12:42:29.223Z
 This GitHub repo is the synced wiki.js storage for https://conqwiki.meaculpa.dev.
 
 Feel free to submit a pull request if you want to improve the content.
-PRs will be merged into the "drafts" branch and released when ready.
+PRs will be merged into the "draft" branch and released when ready.
